@@ -63,3 +63,6 @@ Connects the application to MySQL using JDBC.
 
 ## GitHub Repository
 https://github.com/Aarti-hasija/FoodOrderingSystem
+
+## Demo Video
+https://youtu.be/1AlvhwDfF0Q?si=jFWv7lUYcULgmdPo
