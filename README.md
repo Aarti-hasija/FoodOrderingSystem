@@ -61,3 +61,5 @@ Connects the application to MySQL using JDBC.
 4. Compile all Java files.
 5. Run the main class (for example `Main.java`).
 
+## GitHub Repository
+https://github.com/Aarti-hasija/FoodOrderingSystem
